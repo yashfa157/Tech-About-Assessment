@@ -58,7 +58,10 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
           </div>
 
           <div className="min-w-0">
-            <Suspense fallback={<FlightResultsSkeleton />}>
+            <Suspense
+              key={JSON.stringify(params)}
+              fallback={<FlightResultsSkeleton />}
+            >
               <FlightResults
                 from={params.from ?? "KHI"}
                 to={params.to ?? "DXB"}
