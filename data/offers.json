@@ -1,0 +1,334 @@
+[
+  {
+    "id": "offer-001",
+    "airline": { "code": "EK", "name": "Emirates", "flightNumber": "EK603" },
+    "origin": { "code": "KHI", "city": "Karachi" },
+    "destination": { "code": "DXB", "city": "Dubai" },
+    "departureTime": "2026-10-12T10:30:00+05:00",
+    "arrivalTime": "2026-10-12T11:45:00+04:00",
+    "durationMinutes": 135,
+    "stops": 0,
+    "cabin": "economy",
+    "pricePkr": 68450
+  },
+  {
+    "id": "offer-002",
+    "airline": { "code": "FZ", "name": "FlyDubai", "flightNumber": "FZ330" },
+    "origin": { "code": "KHI", "city": "Karachi" },
+    "destination": { "code": "DXB", "city": "Dubai" },
+    "departureTime": "2026-10-12T12:00:00+05:00",
+    "arrivalTime": "2026-10-12T13:20:00+04:00",
+    "durationMinutes": 140,
+    "stops": 0,
+    "cabin": "economy",
+    "pricePkr": 72300
+  },
+  {
+    "id": "offer-003",
+    "airline": {
+      "code": "PK",
+      "name": "Pakistan International Airlines",
+      "flightNumber": "PK213"
+    },
+    "origin": { "code": "KHI", "city": "Karachi" },
+    "destination": { "code": "DXB", "city": "Dubai" },
+    "departureTime": "2026-10-12T15:00:00+05:00",
+    "arrivalTime": "2026-10-12T16:20:00+04:00",
+    "durationMinutes": 140,
+    "stops": 0,
+    "cabin": "economy",
+    "pricePkr": 78100
+  },
+  {
+    "id": "offer-004",
+    "airline": { "code": "PA", "name": "Airblue", "flightNumber": "PA110" },
+    "origin": { "code": "KHI", "city": "Karachi" },
+    "destination": { "code": "DXB", "city": "Dubai" },
+    "departureTime": "2026-10-12T18:10:00+05:00",
+    "arrivalTime": "2026-10-12T19:35:00+04:00",
+    "durationMinutes": 145,
+    "stops": 0,
+    "cabin": "economy",
+    "pricePkr": 74500
+  },
+  {
+    "id": "offer-005",
+    "airline": { "code": "G9", "name": "Air Arabia", "flightNumber": "G9548" },
+    "origin": { "code": "KHI", "city": "Karachi" },
+    "destination": { "code": "DXB", "city": "Dubai" },
+    "departureTime": "2026-10-12T07:45:00+05:00",
+    "arrivalTime": "2026-10-12T10:30:00+04:00",
+    "durationMinutes": 225,
+    "stops": 1,
+    "cabin": "economy",
+    "pricePkr": 61200
+  },
+  {
+    "id": "offer-006",
+    "airline": {
+      "code": "QR",
+      "name": "Qatar Airways",
+      "flightNumber": "QR611"
+    },
+    "origin": { "code": "KHI", "city": "Karachi" },
+    "destination": { "code": "DXB", "city": "Dubai" },
+    "departureTime": "2026-10-12T09:15:00+05:00",
+    "arrivalTime": "2026-10-12T14:10:00+04:00",
+    "durationMinutes": 355,
+    "stops": 1,
+    "cabin": "economy",
+    "pricePkr": 82600
+  },
+  {
+    "id": "offer-007",
+    "airline": { "code": "EK", "name": "Emirates", "flightNumber": "EK605" },
+    "origin": { "code": "KHI", "city": "Karachi" },
+    "destination": { "code": "DXB", "city": "Dubai" },
+    "departureTime": "2026-10-12T22:30:00+05:00",
+    "arrivalTime": "2026-10-12T23:50:00+04:00",
+    "durationMinutes": 140,
+    "stops": 0,
+    "cabin": "business",
+    "pricePkr": 168500
+  },
+  {
+    "id": "offer-008",
+    "airline": { "code": "FZ", "name": "FlyDubai", "flightNumber": "FZ334" },
+    "origin": { "code": "KHI", "city": "Karachi" },
+    "destination": { "code": "DXB", "city": "Dubai" },
+    "departureTime": "2026-10-12T04:40:00+05:00",
+    "arrivalTime": "2026-10-12T06:05:00+04:00",
+    "durationMinutes": 145,
+    "stops": 0,
+    "cabin": "business",
+    "pricePkr": 142000
+  },
+
+  {
+    "id": "offer-009",
+    "airline": { "code": "SV", "name": "Saudia", "flightNumber": "SV739" },
+    "origin": { "code": "LHE", "city": "Lahore" },
+    "destination": { "code": "JED", "city": "Jeddah" },
+    "departureTime": "2026-10-12T09:00:00+05:00",
+    "arrivalTime": "2026-10-12T12:15:00+03:00",
+    "durationMinutes": 315,
+    "stops": 0,
+    "cabin": "economy",
+    "pricePkr": 89500
+  },
+  {
+    "id": "offer-010",
+    "airline": {
+      "code": "PK",
+      "name": "Pakistan International Airlines",
+      "flightNumber": "PK759"
+    },
+    "origin": { "code": "LHE", "city": "Lahore" },
+    "destination": { "code": "JED", "city": "Jeddah" },
+    "departureTime": "2026-10-12T16:20:00+05:00",
+    "arrivalTime": "2026-10-12T19:45:00+03:00",
+    "durationMinutes": 325,
+    "stops": 0,
+    "cabin": "economy",
+    "pricePkr": 84200
+  },
+  {
+    "id": "offer-011",
+    "airline": {
+      "code": "QR",
+      "name": "Qatar Airways",
+      "flightNumber": "QR629"
+    },
+    "origin": { "code": "LHE", "city": "Lahore" },
+    "destination": { "code": "DOH", "city": "Doha" },
+    "departureTime": "2026-10-12T03:30:00+05:00",
+    "arrivalTime": "2026-10-12T05:25:00+03:00",
+    "durationMinutes": 235,
+    "stops": 0,
+    "cabin": "economy",
+    "pricePkr": 79800
+  },
+  {
+    "id": "offer-012",
+    "airline": {
+      "code": "EY",
+      "name": "Etihad Airways",
+      "flightNumber": "EY285"
+    },
+    "origin": { "code": "ISB", "city": "Islamabad" },
+    "destination": { "code": "AUH", "city": "Abu Dhabi" },
+    "departureTime": "2026-10-12T19:20:00+05:00",
+    "arrivalTime": "2026-10-12T21:35:00+04:00",
+    "durationMinutes": 195,
+    "stops": 0,
+    "cabin": "economy",
+    "pricePkr": 76500
+  },
+
+  {
+    "id": "offer-013",
+    "airline": {
+      "code": "BA",
+      "name": "British Airways",
+      "flightNumber": "BA260"
+    },
+    "origin": { "code": "ISB", "city": "Islamabad" },
+    "destination": { "code": "LHR", "city": "London" },
+    "departureTime": "2026-10-12T10:30:00+05:00",
+    "arrivalTime": "2026-10-12T16:00:00+01:00",
+    "durationMinutes": 570,
+    "stops": 0,
+    "cabin": "economy",
+    "pricePkr": 218500
+  },
+  {
+    "id": "offer-014",
+    "airline": {
+      "code": "QR",
+      "name": "Qatar Airways",
+      "flightNumber": "QR615"
+    },
+    "origin": { "code": "ISB", "city": "Islamabad" },
+    "destination": { "code": "LHR", "city": "London" },
+    "departureTime": "2026-10-12T08:15:00+05:00",
+    "arrivalTime": "2026-10-12T18:40:00+01:00",
+    "durationMinutes": 865,
+    "stops": 1,
+    "cabin": "economy",
+    "pricePkr": 197000
+  },
+  {
+    "id": "offer-015",
+    "airline": { "code": "EK", "name": "Emirates", "flightNumber": "EK613" },
+    "origin": { "code": "ISB", "city": "Islamabad" },
+    "destination": { "code": "LHR", "city": "London" },
+    "departureTime": "2026-10-12T09:45:00+05:00",
+    "arrivalTime": "2026-10-12T20:10:00+01:00",
+    "durationMinutes": 865,
+    "stops": 1,
+    "cabin": "business",
+    "pricePkr": 425000
+  },
+  {
+    "id": "offer-016",
+    "airline": {
+      "code": "TK",
+      "name": "Turkish Airlines",
+      "flightNumber": "TK711"
+    },
+    "origin": { "code": "ISB", "city": "Islamabad" },
+    "destination": { "code": "LHR", "city": "London" },
+    "departureTime": "2026-10-12T05:50:00+05:00",
+    "arrivalTime": "2026-10-12T16:50:00+01:00",
+    "durationMinutes": 900,
+    "stops": 1,
+    "cabin": "economy",
+    "pricePkr": 188500
+  },
+
+  {
+    "id": "offer-017",
+    "airline": {
+      "code": "PK",
+      "name": "Pakistan International Airlines",
+      "flightNumber": "PK302"
+    },
+    "origin": { "code": "KHI", "city": "Karachi" },
+    "destination": { "code": "LHE", "city": "Lahore" },
+    "departureTime": "2026-10-12T08:00:00+05:00",
+    "arrivalTime": "2026-10-12T09:45:00+05:00",
+    "durationMinutes": 105,
+    "stops": 0,
+    "cabin": "economy",
+    "pricePkr": 24500
+  },
+  {
+    "id": "offer-018",
+    "airline": { "code": "PA", "name": "Airblue", "flightNumber": "PA402" },
+    "origin": { "code": "KHI", "city": "Karachi" },
+    "destination": { "code": "LHE", "city": "Lahore" },
+    "departureTime": "2026-10-12T11:20:00+05:00",
+    "arrivalTime": "2026-10-12T13:05:00+05:00",
+    "durationMinutes": 105,
+    "stops": 0,
+    "cabin": "economy",
+    "pricePkr": 22800
+  },
+  {
+    "id": "offer-019",
+    "airline": { "code": "PF", "name": "AirSial", "flightNumber": "PF143" },
+    "origin": { "code": "KHI", "city": "Karachi" },
+    "destination": { "code": "LHE", "city": "Lahore" },
+    "departureTime": "2026-10-12T14:30:00+05:00",
+    "arrivalTime": "2026-10-12T16:10:00+05:00",
+    "durationMinutes": 100,
+    "stops": 0,
+    "cabin": "economy",
+    "pricePkr": 21500
+  },
+  {
+    "id": "offer-020",
+    "airline": { "code": "9P", "name": "Fly Jinnah", "flightNumber": "9P842" },
+    "origin": { "code": "KHI", "city": "Karachi" },
+    "destination": { "code": "LHE", "city": "Lahore" },
+    "departureTime": "2026-10-12T19:00:00+05:00",
+    "arrivalTime": "2026-10-12T20:45:00+05:00",
+    "durationMinutes": 105,
+    "stops": 0,
+    "cabin": "economy",
+    "pricePkr": 20300
+  },
+
+  {
+    "id": "offer-021",
+    "airline": {
+      "code": "PK",
+      "name": "Pakistan International Airlines",
+      "flightNumber": "PK368"
+    },
+    "origin": { "code": "KHI", "city": "Karachi" },
+    "destination": { "code": "ISB", "city": "Islamabad" },
+    "departureTime": "2026-10-12T07:15:00+05:00",
+    "arrivalTime": "2026-10-12T09:10:00+05:00",
+    "durationMinutes": 115,
+    "stops": 0,
+    "cabin": "economy",
+    "pricePkr": 26700
+  },
+  {
+    "id": "offer-022",
+    "airline": { "code": "PA", "name": "Airblue", "flightNumber": "PA200" },
+    "origin": { "code": "KHI", "city": "Karachi" },
+    "destination": { "code": "ISB", "city": "Islamabad" },
+    "departureTime": "2026-10-12T12:45:00+05:00",
+    "arrivalTime": "2026-10-12T14:40:00+05:00",
+    "durationMinutes": 115,
+    "stops": 0,
+    "cabin": "economy",
+    "pricePkr": 24900
+  },
+  {
+    "id": "offer-023",
+    "airline": { "code": "PF", "name": "AirSial", "flightNumber": "PF125" },
+    "origin": { "code": "LHE", "city": "Lahore" },
+    "destination": { "code": "KHI", "city": "Karachi" },
+    "departureTime": "2026-10-12T17:10:00+05:00",
+    "arrivalTime": "2026-10-12T18:55:00+05:00",
+    "durationMinutes": 105,
+    "stops": 0,
+    "cabin": "economy",
+    "pricePkr": 22100
+  },
+  {
+    "id": "offer-024",
+    "airline": { "code": "9P", "name": "Fly Jinnah", "flightNumber": "9P847" },
+    "origin": { "code": "LHE", "city": "Lahore" },
+    "destination": { "code": "KHI", "city": "Karachi" },
+    "departureTime": "2026-10-12T21:00:00+05:00",
+    "arrivalTime": "2026-10-12T22:45:00+05:00",
+    "durationMinutes": 105,
+    "stops": 0,
+    "cabin": "economy",
+    "pricePkr": 20900
+  }
+]
